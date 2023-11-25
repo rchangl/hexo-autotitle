@@ -1,6 +1,6 @@
 {
   "name": "hexo-autotitle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "转换 Markdown 标题 为 Hexo 标题",
   "main": "index.js",
   "scripts": {
